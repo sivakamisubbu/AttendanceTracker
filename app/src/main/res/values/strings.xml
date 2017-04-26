@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Attendance Tracker</string>
+
+    <string name="home_page_display">If you haven\'t registered before Register now with your employee id and the mobile number. \nMobile number shoule be same as the one you have provided in ABC_Corp.
+    </string>
+</resources>
